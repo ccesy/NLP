@@ -28,3 +28,7 @@ import numpy as np
 print("hello world")
 ```
 ### 我最喜欢的工具是pycharm
+<img src="image/02.png" width=300>
+
+### 我可以在IDE上便捷管理编译器和环境
+<img src="image/03.png" width=300>
