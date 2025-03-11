@@ -1,6 +1,6 @@
 # 派大星的自我介绍
 
-<img src="https://github.com/ccesy/NLP/blob/master/image/01.jpeg">
+<img src="image/01.jpeg" width="200" alt="派大星">
 
 你好，我是**派大星**，我是这个动画片的男二号。以下是我的自我介绍：
 
@@ -27,3 +27,4 @@
 import numpy as np
 print("hello world")
 ```
+### 我最喜欢的工具是pycharm
