@@ -1,6 +1,6 @@
 # 派大星的自我介绍
 
-<img src="https://cn.bing.com/images/search?view=detailV2&ccid=vZXRQQVn&id=7142778F76722F4D42990D3E3D47C6051891B5C9&thid=OIP.vZXRQQVn1Q6EDDlPIOKWJQHaHa&mediaurl=https%3a%2f%2fc-ssl.duitang.com%2fuploads%2fitem%2f201903%2f02%2f20190302150317_YTZyM.jpeg&exph=1600&expw=1600&q=%e6%b4%be%e5%a4%a7%e6%98%9f%e5%9b%be%e7%89%87&simid=608049572110748594&FORM=IRPRST&ck=D49D73E2202BEA755DEB619F446F87AA&selectedIndex=0&itb=0&idpp=overlayview&ajaxhist=0&ajaxserp=0">
+<img src="https://github.com/ccesy/NLP/blob/master/image/01.jpeg">
 
 你好，我是**派大星**，我是这个动画片的男二号。以下是我的自我介绍：
 
