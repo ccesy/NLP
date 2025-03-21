@@ -31,7 +31,7 @@ import numpy as np
 print(np.array([1, 2, 3]) ** 2)
 ```
 ### 我最喜欢的工具是pycharm
-<img src="image/03.png" width=300>
+<img src="image/03.png" width=800 alt="截图一">
 
 ### 我可以在IDE上便捷管理编译器和环境
-<img src="image/04.png" width=300>
+<img src="image/04.png" width=800 alt="截图二">
