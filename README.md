@@ -20,15 +20,18 @@
 ### 日常作息
 - 随机安排
 
+### 人生信条
+> "及时享乐"
+
 ## 我的专业是人工智能
 ### 我最喜欢的一段代码
 
 ```python
 import numpy as np
-print("hello world")
+print(np.array([1, 2, 3]) ** 2)
 ```
 ### 我最喜欢的工具是pycharm
-<img src="image/02.png" width=300>
+<img src="image/03.png" width=300>
 
 ### 我可以在IDE上便捷管理编译器和环境
-<img src="image/03.png" width=300>
+<img src="image/04.png" width=300>
